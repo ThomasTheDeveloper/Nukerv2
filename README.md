@@ -2,7 +2,7 @@
 
 Hello! quick tutorial for this
 
-BEFORE EVERYTHING!!! DO ```pip install discord``` for the bot to work! 
+BEFORE EVERYTHING!!! DO ```pip install discord``` for the bot to work! (In your admin cmd)
 umm well you wanna run it
 then put your bot token in
 then go to discord and make sure your bot is in the server
